@@ -3,7 +3,7 @@
 A Helldivers 2 loadout terminal: randomized loadouts that respect the game's real
 stratagem restrictions, a browsable Warbond library, and equipment ownership tracking.
 
-**Live site:** https://__USER__.github.io/super-earth-command/
+**Live site:** https://stickerzania12.github.io/super-earth-command/
 
 ## What it does
 
